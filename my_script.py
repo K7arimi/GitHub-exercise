@@ -1,1 +1,2 @@
-def say_hello():\n    print("Hello")
+def say_goodbye():
+    print("Goodbye")
